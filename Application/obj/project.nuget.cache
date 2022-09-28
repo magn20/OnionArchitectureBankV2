@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rGPI/z28qWv7xHQE6gLpXLR3CACJfUaynS3qtJLt9EJVaQb4741L8nDrgmuaw3hdGR5fRhfVB1WSBgedrRu27A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Magnus Overgaard\\RiderProjects\\OnionArchitectureBankV2\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Magnus Overgaard\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Magnus Overgaard\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\Magnus Overgaard\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Magnus Overgaard\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
